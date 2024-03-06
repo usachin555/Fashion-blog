@@ -1,0 +1,96 @@
+.w3-xxxlarge{
+    font-family: "Oswald";
+    font-size: 48px !important;
+    text-align: center;
+}
+h6{
+    font-family: "Oswald";
+    font-size: 20px !important;
+    /* line-height: 30px; */
+    text-align: center;
+}
+b{
+    /* font-weight: bolder; */
+    /* text-size-adjust: 10px; */
+}
+.left-container{
+    width: 100%;
+}
+.text-container{
+    position: absolute;
+    top:800px;
+}
+.head5{
+    color: rgb(126, 126, 132);
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+/* i{
+    font-size: 30px;
+} */
+.cok{
+    font-size: smaller;
+    color: rgb(126, 126, 132);;
+}
+.title{
+    display: flex;
+    flex-direction: row !important;
+}
+
+.picc1{
+    /* width: auto; */
+    /* padding: 20px; */
+}
+.right-container{
+    width: 50%;
+}
+
+.pic0{
+    padding: 10px 20px 0px 20px;
+}
+.myname{
+    margin: 0px 20px 0px 20px;
+    /* padding: 10px 30px 0px 0px ; */
+}
+.popular-container{
+    padding: 10px 20px 0px 20px;
+}
+.advertise-hed{
+    padding: 10px 20px 0px 20px;
+    margin: 0px 20px 0px 20px;
+
+}
+.follo-container{
+    margin: 0px 20px 0px 20px;
+
+}
+.sub-container{
+    margin: 0px 20px 0px 20px;
+
+}
+.inspi-hed{
+    margin: 0px 20px 0px 20px;
+}
+/* .adpic-inner{
+    padding: 50px;
+} */
+.inner-tags{
+    /* padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 10px; */
+    padding: 30px;
+}
+.inspi-container{
+    padding: 20px;
+    gap: 10px;
+    display: flex;
+}
+.inspiimage-container{
+    /* padding: 20px; */
+}
+.photo{
+    /* height: 20%; */
+}
+.inpt-container{
+    margin-top: 20px;
+}
